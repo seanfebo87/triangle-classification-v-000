@@ -21,5 +21,5 @@ class Triangle
 end
 
 class TriangelError < StandardError
-  "This is not a valid Triangel"
+  "This is not a valid Triangle
   
