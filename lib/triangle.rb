@@ -21,7 +21,6 @@ class Triangle
     raise TriangleError
   end
   
-end
 
 class TriangleError < StandardError
   "This is not a valid Triangle."
